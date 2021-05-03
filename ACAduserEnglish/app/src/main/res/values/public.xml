@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="btn_check_off" id="2130837504" />
+    <public type="drawable" name="btn_check_on" id="2130837505" />
+    <public type="drawable" name="btn_radio_off" id="2130837506" />
+    <public type="drawable" name="btn_radio_on" id="2130837507" />
+    <public type="drawable" name="filedialog_file" id="2130837508" />
+    <public type="drawable" name="filedialog_folder" id="2130837509" />
+    <public type="drawable" name="filedialog_folder_up" id="2130837510" />
+    <public type="drawable" name="filedialog_root" id="2130837511" />
+    <public type="drawable" name="filedialog_s19hexfile" id="2130837512" />
+    <public type="drawable" name="mybackimg_hor" id="2130837513" />
+    <public type="drawable" name="mybackimg_ver" id="2130837514" />
+    <public type="drawable" name="plateicon" id="2130837515" />
+    <public type="layout" name="checkbox" id="2130903040" />
+    <public type="layout" name="filedialogitem" id="2130903041" />
+    <public type="layout" name="main" id="2130903042" />
+    <public type="layout" name="radiobox" id="2130903043" />
+    <public type="dimen" name="activity_horizontal_margin" id="2130968576" />
+    <public type="dimen" name="activity_vertical_margin" id="2130968577" />
+    <public type="string" name="app_name" id="2131034112" />
+    <public type="style" name="AppBaseTheme" id="2131099648" />
+    <public type="style" name="AppTheme" id="2131099649" />
+    <public type="id" name="vw1" id="2131165184" />
+    <public type="id" name="filedialogitem_img" id="2131165185" />
+    <public type="id" name="filedialogitem_name" id="2131165186" />
+    <public type="id" name="filedialogitem_path" id="2131165187" />
+    <public type="id" name="viewPager" id="2131165188" />
+    <public type="id" name="viewTab" id="2131165189" />
+</resources>
